@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Get Wild",
+  "base_artist": "B'z",
+  "createdAt": "2026-03-11T16:35:26.302412Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Get Wild / Wild Gravity",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/01_I_Get_Wild___Wild_Gravity_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Get Wild\u0000Wild Gravity",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/02_I_Get_Wild\u0000Wild_Gravity_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Emma Get Wild",
+      "artist": "Sebadoh",
+      "has_synced": true,
+      "path": "select/03_Emma_Get_Wild_Sebadoh.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Can Get Wild",
+      "artist": "Mark Knopfler",
+      "has_synced": true,
+      "path": "select/04_We_Can_Get_Wild_Mark_Knopfler.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Born to Get Wild (feat. will.i.am)",
+      "artist": "Steve Aoki feat. will.i.am",
+      "has_synced": true,
+      "path": "select/05_Born_to_Get_Wild_(feat._will.i.am)_Steve_Aoki_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Get Wild/Wild Gravity",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/06_I_Get_Wild_Wild_Gravity_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Born To Get Wild (Club Edit)",
+      "artist": "Steve Aoki feat. will.i.am",
+      "has_synced": true,
+      "path": "select/07_Born_To_Get_Wild_(Club_Edit)_Steve_Aoki_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Born To Get Wild",
+      "artist": "Steve Aoki ft. Will.I.Am",
+      "has_synced": true,
+      "path": "select/08_Born_To_Get_Wild_Steve_Aoki_ft._Will.I.Am.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Born To Get Wild (Dimitri Vegas & Like Mike vs BoostedKids Remix)",
+      "artist": "Steve Aoki feat. will.i.am",
+      "has_synced": true,
+      "path": "select/09_Born_To_Get_Wild_(Dimitri_Vegas_&_Like_Mike_vs_BoostedKids_Remix)_Steve_Aoki_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Born to Get Wild (feat. will.i.am) (Dimitri Vegas & Like Mike vs BoostedKids Remix)",
+      "artist": "Steve Aoki, will.i.am",
+      "has_synced": true,
+      "path": "select/10_Born_to_Get_Wild_(feat._will.i.am)_(Dimitri_Vegas_&_Like_Mike_vs_BoostedKids_Rem_Steve_Aoki,_will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Get Wild",
+      "artist": "TM NETWORK",
+      "has_synced": true,
+      "path": "select/11_Get_Wild_TM_NETWORK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Get Wild \u0000 Wild Gravity",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/12_I_Get_Wild_\u0000_Wild_Gravity_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Get Wild-Wild Gravity",
+      "artist": "Talking Heads",
+      "has_synced": false,
+      "path": "select/13_I_Get_Wild-Wild_Gravity_Talking_Heads.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Born to Get Wild (feat. will.i.am)",
+      "artist": "Steve Aoki",
+      "has_synced": true,
+      "path": "select/14_Born_to_Get_Wild_(feat._will.i.am)_Steve_Aoki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Get Wild",
+      "artist": "Aaron Carter",
+      "has_synced": true,
+      "path": "select/15_Get_Wild_Aaron_Carter.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Get Wild",
+      "artist": "TM NETWORK",
+      "has_synced": true,
+      "path": "select/16_Get_Wild_TM_NETWORK.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Get Wild/Wild Gravity",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/17_I_Get_Wild_Wild_Gravity_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Get Wild / Wild Gravity (2005 Remaster)",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/18_I_Get_Wild___Wild_Gravity_(2005_Remaster)_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Get Wild / Wild Gravity - 2005 Remastered Version",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/19_I_Get_Wild___Wild_Gravity_-_2005_Remastered_Version_Talking_Heads.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get Wild",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_01_Get_Wild_B'z.txt"
+    }
+  ]
+}
